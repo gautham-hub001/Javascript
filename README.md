@@ -63,3 +63,9 @@ ex. short circuiting.js
 arrayMethods.js
 
 immutability
+ex. referencevalue.js
+
+synchronous vs asynchronous
+synchronous - it will from first line of the file and executes the code and goes till the last line of code and then it will stop
+asynchronous - it will execute from top and file and when it encounters asynchronous code where it will split off to execute that asynchronous code and it will continue to run the current file parallely so multiple threads run parallely. So, the output is unpredictable.
+ex. asynchronous.html

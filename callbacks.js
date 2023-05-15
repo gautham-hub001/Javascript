@@ -7,7 +7,7 @@ const test2 = test
 console.log(test == test2) // true
 console.log(test)
 test.prop = "Hi"
-console.dir(test) // it has everything that a normal object has
+console.dir(test) // Using this we can see that it has everything that a normal object has
 
 
 // ex1. setTimeout(). First parameter is a callback function  since it is a parameter that is being passed to setTimeout() and second is delay
